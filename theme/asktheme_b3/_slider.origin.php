@@ -78,7 +78,7 @@ add_javascript("<script src='" . G5_THEME_URL . "/plugin/velocity/velocity.min.j
 
                     */
                 ?>
-                <div id="bgPlayer" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=V_ZPiSHSklc',vol:'90',stopMovieOnBlur:false,containment:'#bgPlayer1',showControls:false,startAt:0,mute:true,autoPlay:true,loop:true,opacity:1,quality:'highres',optimizeDisplay:true}"></div>
+                <div id="bgPlayer" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=bLoO0FSXncg',vol:'90',stopMovieOnBlur:false,containment:'#bgPlayer1',showControls:false,startAt:0,mute:true,autoPlay:true,loop:true,opacity:1,quality:'highres',optimizeDisplay:true}"></div>
             </div>
             <!-- 슬라이더 2 -->
             <div class="swiper-slide" data-swiper-autoplay="4000" style='background-image:url(<?php echo G5_THEME_URL . "/img/slider2.jpg" ?>);'>
